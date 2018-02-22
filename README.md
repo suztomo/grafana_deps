@@ -1,2 +1,2 @@
 # grafana_deps
-Grafana Dependencies. The license of each dependency is as they are.
+Grafana Dependencies. This packaging doesn't modify the license of libraries.
