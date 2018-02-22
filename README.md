@@ -1,2 +1,2 @@
 # grafana_deps
-Grafana Dependencies
+Grafana Dependencies. The license of each dependency is as they are.
